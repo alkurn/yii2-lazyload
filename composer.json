@@ -1,0 +1,25 @@
+{
+  "name": "alkurn/yii2-lazyload",
+  "description": "Yii2 Lazy load Widget for html blocks",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "Yii2",
+    "Yii-Widget",
+    "Lazy Load",
+    "Lazyload",
+    "Block Lazy Load",
+    "Composer"
+  ],
+  "authors": [
+    {
+      "name": "Ganesh",
+      "email": "mganesh.alkurn@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "alkurn\\lazyload\\": ""
+    }
+  }
+}
